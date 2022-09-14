@@ -130,5 +130,12 @@ width:100%
     .ourteam{
         height:1400px;
     }
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 32px;
+        font-weight: bold;
+    }
 
 }
